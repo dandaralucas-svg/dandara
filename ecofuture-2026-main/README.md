@@ -15,7 +15,7 @@ Funcionalidades
  Tecnologias utilizadas
 
 - HTML5 semântico
-- CSS3 customizado + Tailwind CSS
+- CSS3 customizado
 - JavaScript vanilla (sem frameworks)
 - Font Awesome 6
 - Google Fonts (Orbitron + Inter)
