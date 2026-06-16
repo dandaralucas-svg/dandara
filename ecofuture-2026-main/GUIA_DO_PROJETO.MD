@@ -1,6 +1,6 @@
 GUIA DO PROJETO – EcoFuture 2026
 
-Bem-vindo(a) ao repositório do **EcoFuture 2026**, um projeto educacional interativo desenvolvido para o concurso **Agrinho**.  
+Bem-vindo(a) ao repositório do **EcoFuture 2026**, um projeto educacional interativo desenvolvido para o concurso **Agrinho** pelas alunas: DAFNY DANDARA OLIVEIRA LUCAS, DANDARA DAFNY OLIVEIRA LUCAS, STEFANNY LORENA COSTA BATISTA do 2° A do colégio Estadual Rainha da Paz.  
 Este guia explica a estrutura, as funcionalidades e como você pode executar, modificar e publicar o projeto.
 
 ---
